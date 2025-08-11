@@ -1,6 +1,7 @@
 // Array para almacenar los nombres
 let amigos = [];
 
+//Función para agregar amigo
 function agregarAmigo() {
     let input = document.getElementById("amigo");
     let nombre = input.value.trim();
@@ -14,10 +15,9 @@ function agregarAmigo() {
     input.value = "";
     mostrarAmigos();
 
-    //Opcional si queremos verificar en la consola los nombres
-    console.log(amigos);
 }
 
+//Función para mostrar amigos
 function mostrarAmigos() {
     let lista = document.getElementById("listaAmigos");
     lista.innerHTML = "";
@@ -27,6 +27,7 @@ function mostrarAmigos() {
     }
 }
 
+//Función para sortear un amigo
 function sortearAmigo() {
     let resultado = document.getElementById("resultado");
     resultado.innerHTML = "";
