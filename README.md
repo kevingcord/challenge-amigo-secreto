@@ -9,11 +9,11 @@ Este proyecto fue realizado para poner en practica lo aprendido en los cursos lo
 * Cuando ingreses todos los amigos, presiones "Sortear Amigo" para elegir uno al azar
 * No se permite repetir los nombres
 
-![Lista](Lista_de_Amigos.png)
+![Lista](assets/Lista_de_Amigos.png)
 
 # Resultado Final
 
-![Amigo_elegido](Amigo_secreto_elegido.png)
+![Amigo_elegido](assets/Amigo_secreto_elegido.png)
 
 # Estructura del Proyecto 
 
