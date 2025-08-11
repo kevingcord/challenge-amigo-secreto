@@ -24,5 +24,5 @@ Este proyecto fue realizado para poner en practica lo aprendido en los cursos lo
 
 # Autor
 Kevin Gamarra Cordova
-Correo: kcordova@myevol.biz
-Usuario en URL: https://app.aluracursos.com/user/kcordova
+* Correo: kcordova@myevol.biz
+* Usuario en URL: https://app.aluracursos.com/user/kcordova
